@@ -6,7 +6,7 @@ A lightweight, in-browser **code editor** that lets users write and instantly pr
 
 ## 🌐 Live Demo
 
-🔗 [Try It Live]()  
+🔗 [Try It Live]( https://mubeen2005.github.io/CodeEasy/)  
 
 
 ---
@@ -34,7 +34,5 @@ A lightweight, in-browser **code editor** that lets users write and instantly pr
 - 📱 Responsive layout — works on all screen sizes
 - 🧼 Minimal and distraction-free UI
 
----
 
-## 📁 Folder Structure
 
